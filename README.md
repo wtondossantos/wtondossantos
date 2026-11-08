@@ -83,7 +83,7 @@ I conceived and developed the platform, combining my passion for technology, geo
 - Interactive map and geographic data visualization.
 - Application architecture, implementation, and maintenance.
 
-- 🔗 [Project](https://javisitei.com)
+- 🔗 [JaVisitei.com](https://javisitei.com)
 
 ### 💼 Conecte-se comigo
 
