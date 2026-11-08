@@ -69,6 +69,8 @@ Currently, I work at **Itaú Unibanco**, contributing to the evolution and moder
 
 I'm passionate about technology, software architecture, photography, and continuous learning. I enjoy solving complex engineering challenges and transforming ideas into practical, scalable solutions.
 
+---
+
 ### 👨‍💻 Founder & Developer | Personal Project - Já Visitei
 
 Já Visitei is a personal project designed to help people track and visualize the places they have visited across Brazil and around the World.
