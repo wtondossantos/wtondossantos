@@ -74,7 +74,7 @@ I'm passionate about technology, software architecture, photography, and continu
 Já Visitei is a personal project designed to help people track and visualize the places they have visited across Brazil and around the World.
 I conceived and developed the platform, combining my passion for technology, geography, and travel with my software engineering experience.
 
-#### Key contributions:
+**Key contributions**
 
 - Product conception and development from scratch.
 - Backend development using .NET.
@@ -82,7 +82,7 @@ I conceived and developed the platform, combining my passion for technology, geo
 - Cloud deployment and hosting on AWS.
 - Interactive map and geographic data visualization.
 - Application architecture, implementation, and maintenance.
-
+---
 - 🔗 [Project](https://javisitei.com)
 
 ### 💼 Conecte-se comigo
